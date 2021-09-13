@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello there 👋
+
+I'm a third year Computer Science major at the University of Waterloo. Currently, I am busy exploring the ✨wondrous world✨ of AI, robotics, and design.
+
+My personal website is still a work in progress 🔨 but you can checkout my [Linkedin](https://www.linkedin.com/in/melikamirsajjadi/) or reach me through <a href="mailto:msmirsaj@uwaterloo.ca">email</a>!
 
 <!--
 **msmel01/msmel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
