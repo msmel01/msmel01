@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm a third year Computer Science major at the University of Waterloo. Currently, I am busy exploring the ✨wondrous world✨ of AI, robotics, and design.
+I'm a fourth year Computer Science major at the University of Waterloo. Currently, I am busy exploring the ✨wondrous world✨ of AI, robotics, graphics, and design.
 
 My personal website is still a work in progress 🔨 but you can checkout my [Linkedin](https://www.linkedin.com/in/melikamirsajjadi/) or reach me through <a href="mailto:msmirsaj@uwaterloo.ca">email</a>!
 
