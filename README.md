@@ -1,8 +1,12 @@
-# Hello there 👋
+# Welcome 👋
 
-I'm a fourth year Computer Science major at the University of Waterloo. Currently, I am busy exploring the ✨wondrous world✨ of AI, robotics, graphics, and design.
+My name is Melika, and I recently graduated with a Bachelor of Computer Science from the University of Waterloo.
 
-My personal website is still a work in progress 🔨 but you can checkout my [Linkedin](https://www.linkedin.com/in/melikamirsajjadi/) or reach me through <a href="mailto:msmirsaj@uwaterloo.ca">email</a>!
+My current areas of interest are AI alignment and safety as well as human cognitive modelling and understanding.
+
+In my free time, I like to go to the gym, learn French, or practice the drums. I'm also learning how to better manage my time and attention!
+
+I'm open to collaborating or simply discussing any of these topics. Feel free to reach out and connect on [LinkedIn](https://www.linkedin.com/in/melikamirsajjadi/).
 
 <!--
 **msmel01/msmel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
